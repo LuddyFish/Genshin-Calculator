@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|c:\\users\\jack\\onedrive\\random stuff\\genshin-calculator\\genshin calculations\\data\\weapon_data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|solutionrelative:data\\weapon_data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|c:\\users\\jack\\onedrive\\random stuff\\genshin-calculator\\genshin calculations\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|c:\\users\\jack\\onedrive\\random stuff\\genshin-calculator\\genshin calculations\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|solutionrelative:weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|c:\\users\\jack\\onedrive\\random stuff\\genshin-calculator\\genshin calculations\\attributes\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|solutionrelative:attributes\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|c:\\users\\jack\\onedrive\\random stuff\\genshin-calculator\\genshin calculations\\data\\character_data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|solutionrelative:data\\character_data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|c:\\users\\jack\\onedrive\\random stuff\\genshin-calculator\\genshin calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:37:14.979Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:38:53.196Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Attributes\\Stats.cs",
+              "RelativeDocumentMoniker": "Attributes\\Stats.cs",
+              "ToolTip": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Attributes\\Stats.cs",
+              "RelativeToolTip": "Attributes\\Stats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:01:01.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Weapon.cs",
+              "RelativeDocumentMoniker": "Weapon.cs",
+              "ToolTip": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Weapon.cs",
+              "RelativeToolTip": "Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:40:39.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "character_data.json",
+              "DocumentMoniker": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Data\\character_data.json",
+              "RelativeDocumentMoniker": "Data\\character_data.json",
+              "ToolTip": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Data\\character_data.json",
+              "RelativeToolTip": "Data\\character_data.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAGUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T22:44:16.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "weapon_data.json",
+              "DocumentMoniker": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Data\\weapon_data.json",
+              "RelativeDocumentMoniker": "Data\\weapon_data.json",
+              "ToolTip": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Data\\weapon_data.json",
+              "RelativeToolTip": "Data\\weapon_data.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T23:28:04.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

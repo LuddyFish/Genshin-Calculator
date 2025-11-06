@@ -1,0 +1,260 @@
+{
+  // - 1 star -
+  "Apprentices Notes": {
+    "Type": "Catalyst",
+    "BaseATK": 185,
+    "SecondaryAttribute": "ATK",
+    "SecondStat": 0,
+    "Passive": "None"
+  },
+  "Beginners Protection": {
+    "Type": "Polearm",
+    "BaseATK": 185,
+    "SecondaryAttribute": "ATK",
+    "SecondStat": 0,
+    "Passive": "None"
+  },
+  "Dull Blade": {
+    "Type": "Sword",
+    "BaseATK": 185,
+    "SecondaryAttribute": "ATK",
+    "SecondStat": 0,
+    "Passive": "None"
+  },
+  "Hunters Bow": {
+    "Type": "Bow",
+    "BaseATK": 185,
+    "SecondaryAttribute": "ATK",
+    "SecondStat": 0,
+    "Passive": "None"
+  },
+  "Waster Greatsword": {
+    "Type": "Claymore",
+    "BaseATK": 185,
+    "SecondaryAttribute": "ATK",
+    "SecondStat": 0,
+    "Passive": "None"
+  },
+  // -- 2 star --
+  "Iron Point": {
+    "Type": "Polearm",
+    "BaseATK": 243,
+    "SecondaryAttribute": "ATK",
+    "SecondStat": 0,
+    "Passive": "None"
+  },
+  "Old Mercs Pal": {
+    "Type": "Claymore",
+    "BaseATK": 243,
+    "SecondaryAttribute": "ATK",
+    "SecondStat": 0,
+    "Passive": "None"
+  },
+  "Pocket Grimoire": {
+    "Type": "Catalyst",
+    "BaseATK": 243,
+    "SecondaryAttribute": "ATK",
+    "SecondStat": 0,
+    "Passive": "None"
+  },
+  "Seasoned Hunters Bow": {
+    "Type": "Bow",
+    "BaseATK": 243,
+    "SecondaryAttribute": "ATK",
+    "SecondStat": 0,
+    "Passive": "None"
+  },
+  "Silver Sword": {
+    "Type": "Sword",
+    "BaseATK": 243,
+    "SecondaryAttribute": "ATK",
+    "SecondStat": 0,
+    "Passive": "None"
+  },
+  // --- 3 star ---
+  "Black Tassel": {
+    "Type": "Polearm",
+    "BaseATK": 354,
+    "SecondaryAttribute": "HP",
+    "SecondStat": 46.9,
+    "Passive": "Bane of the Soft"
+  },
+  "Bloodtainted Greatsword": {
+    "Type": "Claymore",
+    "BaseATK": 354,
+    "SecondaryAttribute": "Elemental_Mastery",
+    "SecondStat": 187,
+    "Passive": "Bane of Fire and Thunder"
+  },
+  "Cool Steel": {
+    "Type": "Sword",
+    "BaseATK": 401,
+    "SecondaryAttribute": "ATK",
+    "SecondStat": 35.2,
+    "Passive": "Bane of Water and Ice"
+  },
+  "Dark Iron Sword": {
+    "Type": "Sword",
+    "BaseATK": 401,
+    "SecondaryAttribute": "Elemental_Mastery",
+    "SecondStat": 141,
+    "Passive": "Overloaded"
+  },
+  "Debate Club": {
+    "Type": "Claymore",
+    "BaseATK": 401,
+    "SecondaryAttribute": "ATK",
+    "SecondStat": 35.2,
+    "Passive": "Blunt Conclusion"
+  },
+  "Emerald Orb": {
+    "Type": "Catalyst",
+    "BaseATK": 448,
+    "SecondaryAttribute": "Elemental_Mastery",
+    "SecondStat": 94,
+    "Passive": "Rapids"
+  },
+  "Ferrous Shadow": {
+    "Type": "Claymore",
+    "BaseATK": 401,
+    "SecondaryAttribute": "HP",
+    "SecondStat": 35.2,
+    "Passive": "Unbending"
+  },
+  "Fillet Blade": {
+    "Type": "Sword",
+    "BaseATK": 401,
+    "SecondaryAttribute": "ATK",
+    "SecondStat": 35.2,
+    "Passive": "Gash"
+  },
+  "Halberd": {
+    "Type": "Polearm",
+    "BaseATK": 448,
+    "SecondaryAttribute": "ATK",
+    "SecondStat": 23.4,
+    "Passive": "Heavy"
+  },
+  "Harbinger of Dawn": {
+    "Type": "Sword",
+    "BaseATK": 401,
+    "SecondaryAttribute": "CRIT_DMG",
+    "SecondStat": 46.9,
+    "Passive": "Vigorous"
+  },
+  "Magic Guide": {
+    "Type": "Catalyst",
+    "BaseATK": 354,
+    "SecondaryAttribute": "Elemental_Mastery",
+    "SecondStat": 187,
+    "Passive": "Bane of Storm and Tide"
+  },
+  "Messenger": {
+    "Type": "Bow",
+    "BaseATK": 448,
+    "SecondaryAttribute": "CRIT_DMG",
+    "SecondStat": 31.2,
+    "Passive": "Archers Message"
+  },
+  "Otherworldly Story": {
+    "Type": "Catalyst",
+    "BaseATK": 401,
+    "SecondaryAttribute": "Energy_Recharge",
+    "SecondStat": 39.0,
+    "Passive": "Energy Shower"
+  },
+  "Raven Bow": {
+    "Type": "Bow",
+    "BaseATK": 448,
+    "SecondaryAttribute": "Elemental_Mastery",
+    "SecondStat": 94,
+    "Passive": "Bane of Flame and Water"
+  },
+  "Recurve Bow": {
+    "Type": "Bow",
+    "BaseATK": 354,
+    "SecondaryAttribute": "HP",
+    "SecondStat": 46.9,
+    "Passive": "Cull the Weak"
+  },
+  "Sharpshoters Oath": {
+    "Type": "Bow",
+    "BaseATK": 401,
+    "SecondaryAttribute": "CRIT_DMG",
+    "SecondStat": 46.9,
+    "Passive": "Precise"
+  },
+  "Skyride Greatsword": {
+    "Type": "Claymore",
+    "BaseATK": 401,
+    "SecondaryAttribute": "Physical_DMG_Bonus",
+    "SecondStat": 43.9,
+    "Passive": "Courage"
+  },
+  "Skyrider Sword": {
+    "Type": "Sword",
+    "BaseATK": 354,
+    "SecondaryAttribute": "Energy_Recharge",
+    "SecondStat": 51.7,
+    "Passive": "Determination"
+  },
+  "Slingshot": {
+    "Type": "Bow",
+    "BaseATK": 354,
+    "SecondaryAttribute": "CRIT_Rate",
+    "SecondStat": 31.2,
+    "Passive": "Slingshot"
+  },
+  "Thrilling Tales of Dragon Slayers": {
+    "Type": "Catalyst",
+    "BaseATK": 401,
+    "SecondaryAttribute": "HP",
+    "SecondStat": 35.2,
+    "Passive": "Heritage"
+  },
+  "Travelers Handy Sword": {
+    "Type": "Sword",
+    "BaseATK": 448,
+    "SecondaryAttribute": "DEF",
+    "SecondStat": 29.3,
+    "Passive": "Journey"
+  },
+  "Twin Nephrite": {
+    "Type": "Catalyst",
+    "BaseATK": 448,
+    "SecondaryAttribute": "CRIT_Rate",
+    "SecondStat": 15.6,
+    "Passive": "Guerilla Tactics"
+  },
+  "White Iron Greatsword": {
+    "Type": "Claymore",
+    "BaseATK": 401,
+    "SecondaryAttribute": "DEF",
+    "SecondStat": 43.9,
+    "Passive": "Cull the Weak"
+  },
+  "White Tassel": {
+    "Type": "Polearm",
+    "BaseATK": 401,
+    "SecondaryAttribute": "CRIT_Rate",
+    "SecondStat": 23.4,
+    "Passive": "Sharp"
+  },
+  // ---- 4 star ----
+  "The Catch": {
+    "Type": "Polearm",
+    "BaseATK": 510,
+    "SecondaryAttribute": "Energy_Recharge",
+    "SecondStat": 45.9,
+    "Passive": "Shanty"
+  },
+
+  // ----- 5 star -----
+  "A Thousand Blazing Suns": {
+    "Type": "Claymore",
+    "BaseATK": 741,
+    "SecondaryAttribute": "CRIT_Rate",
+    "SecondStat": 11.0,
+    "Passive": "Sunset Reignites the Dawn"
+  }
+}

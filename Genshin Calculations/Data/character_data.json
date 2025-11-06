@@ -1,0 +1,149 @@
+{
+  "Amber": {
+    "Element": "Pyro",
+    "WeaponType": "Bow",
+    "BaseHP": 9461.18,
+    "BaseATK": 223.02,
+    "BaseDEF": 600.62
+  },
+  "Kaeya": {
+    "Element": "Cryo",
+    "WeaponType": "Sword",
+    "BaseHP": 11636.16,
+    "BaseATK": 223.02,
+    "BaseDEF": 791.72
+  },
+  "Lisa": {
+    "Element": "Electro",
+    "WeaponType": "Catalyst",
+    "BaseHP": 9569.93,
+    "BaseATK": 231.51,
+    "BaseDEF": 573.32
+  },
+  "Barbara": {
+    "Element": "Hydro",
+    "WeaponType": "Catalyst",
+    "BaseHP": 9787.42,
+    "BaseATK": 159.30,
+    "BaseDEF": 668.87
+  },
+  "Razor": {
+    "Element": "Electro",
+    "WeaponType": "Claymore",
+    "BaseHP": 11962.41,
+    "BaseATK": 233.64,
+    "BaseDEF": 750.77
+  },
+  "Xiangling": {
+    "Element": "Pyro",
+    "WeaponType": "Polearm",
+    "BaseHP": 10874.0,
+    "BaseATK": 225.0,
+    "BaseDEF": 668.0
+  },
+  "Beidou": {
+    "Element": "Electro",
+    "WeaponType": "Claymore",
+    "BaseHP": 13049.90,
+    "BaseATK": 225.14,
+    "BaseDEF": 648.40
+  },
+  "Xingqiu": {
+    "Element": "Hydro",
+    "WeaponType": "Sword",
+    "BaseHP": 10222.42,
+    "BaseATK": 201.78,
+    "BaseDEF": 757.60
+  },
+  "Ningguang": {
+    "Element": "Geo",
+    "WeaponType": "Catalyst",
+    "BaseHP": 9787.42,
+    "BaseATK": 212.40,
+    "BaseDEF": 573.32
+  },
+  "Fischl": {
+    "Element": "Electro",
+    "WeaponType": "Bow",
+    "BaseHP": 9189.0,
+    "BaseATK": 244.0,
+    "BaseDEF": 594.0
+  },
+  "Bennett": {
+    "Element": "Pyro",
+    "WeaponType": "Sword",
+    "BaseHP": 12397.00,
+    "BaseATK": 191.00,
+    "BaseDEF": 771.00
+  },
+  "Noelle": {
+    "Element": "Geo",
+    "WeaponType": "Claymore",
+    "BaseHP": 12071.00,
+    "BaseATK": 191.00,
+    "BaseDEF": 799.00
+  },
+  "Chongyun": {
+    "Element": "Cryo",
+    "WeaponType": "Claymore",
+    "BaseHP": 10984.00,
+    "BaseATK": 223.00,
+    "BaseDEF": 648.00
+  },
+  "Sucrose": {
+    "Element": "Anemo",
+    "WeaponType": "Catalyst",
+    "BaseHP": 9244.00,
+    "BaseATK": 170.00,
+    "BaseDEF": 703.00
+  },
+  "Jean": {
+    "Element": "Anemo",
+    "WeaponType": "Sword",
+    "BaseHP": 14695.00,
+    "BaseATK": 239.00,
+    "BaseDEF": 769.00
+  },
+  "Diluc": {
+    "Element": "Pyro",
+    "WeaponType": "Claymore",
+    "BaseHP": 12981.0,
+    "BaseATK": 335.0,
+    "BaseDEF": 784.0
+  },
+  "Mona": {
+    "Element": "Hydro",
+    "WeaponType": "Catalyst",
+    "BaseHP": 10409.0,
+    "BaseATK": 287.0,
+    "BaseDEF": 653.0
+  },
+  "Qiqi": {
+    "Element": "Cryo",
+    "WeaponType": "Sword",
+    "BaseHP": 12368.00,
+    "BaseATK": 287.00,
+    "BaseDEF": 922.00
+  },
+  "Keqing": {
+    "Element": "Electro",
+    "WeaponType": "Sword",
+    "BaseHP": 13103.00,
+    "BaseATK": 323.00,
+    "BaseDEF": 799.00
+  },
+  "Venti": {
+    "Element": "Anemo",
+    "WeaponType": "Bow",
+    "BaseHP": 10531.0,
+    "BaseATK": 263.0,
+    "BaseDEF": 669.0
+  },
+  "Klee": {
+    "Element": "Pyro",
+    "WeaponType": "Catalyst",
+    "BaseHP": 10286.57,
+    "BaseATK": 310.93,
+    "BaseDEF": 614.84
+  }
+}

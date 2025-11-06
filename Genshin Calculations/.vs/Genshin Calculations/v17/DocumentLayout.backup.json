@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|c:\\users\\jack\\onedrive\\random stuff\\genshin-calculator\\genshin calculations\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|c:\\users\\jack\\onedrive\\random stuff\\genshin-calculator\\genshin calculations\\elements\\elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|solutionrelative:elements\\elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|c:\\users\\jack\\onedrive\\random stuff\\genshin-calculator\\genshin calculations\\elements\\reactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|solutionrelative:elements\\reactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|c:\\users\\jack\\onedrive\\random stuff\\genshin-calculator\\genshin calculations\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|solutionrelative:weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|c:\\users\\jack\\onedrive\\random stuff\\genshin-calculator\\genshin calculations\\artifact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|solutionrelative:artifact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|c:\\users\\jack\\onedrive\\random stuff\\genshin-calculator\\genshin calculations\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|solutionrelative:stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|c:\\users\\jack\\onedrive\\random stuff\\genshin-calculator\\genshin calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F075A7DF-BA13-474D-BC6C-2D9D92F242B1}|Genshin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:37:14.979Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:38:53.196Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Stats.cs",
+              "RelativeDocumentMoniker": "Stats.cs",
+              "ToolTip": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Stats.cs",
+              "RelativeToolTip": "Stats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:01:01.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Elements.cs",
+              "DocumentMoniker": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Elements\\Elements.cs",
+              "RelativeDocumentMoniker": "Elements\\Elements.cs",
+              "ToolTip": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Elements\\Elements.cs",
+              "RelativeToolTip": "Elements\\Elements.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:41:07.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Weapon.cs",
+              "RelativeDocumentMoniker": "Weapon.cs",
+              "ToolTip": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Weapon.cs",
+              "RelativeToolTip": "Weapon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:40:39.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reactions.cs",
+              "DocumentMoniker": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Elements\\Reactions.cs",
+              "RelativeDocumentMoniker": "Elements\\Reactions.cs",
+              "ToolTip": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Elements\\Reactions.cs",
+              "RelativeToolTip": "Elements\\Reactions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:42:12.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Artifact.cs",
+              "DocumentMoniker": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Artifact.cs",
+              "RelativeDocumentMoniker": "Artifact.cs",
+              "ToolTip": "C:\\Users\\Jack\\OneDrive\\Random Stuff\\Genshin-Calculator\\Genshin Calculations\\Artifact.cs",
+              "RelativeToolTip": "Artifact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:40:19.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
