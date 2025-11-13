@@ -1,11 +1,11 @@
-﻿using System;
+﻿using Genshin.Attributes;
+using Genshin.Elements;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
-using Genshin.Attributes;
-using Genshin.Elements;
 
 namespace Genshin
 {
@@ -190,6 +190,30 @@ namespace Genshin
                 throw new ArgumentException($"No character data found for {name}");
 
             return info;
+        }
+
+        public static void Set(CharacterNames name, CharacterJsonData data, string jsonPath)
+        {
+            if (!File.Exists(jsonPath))
+                throw new FileNotFoundException($"Weapon data file not found: {jsonPath}");
+
+            string json = File.ReadAllText(jsonPath);
+
+            var tempDict = JsonSerializer.Deserialize<Dictionary<string, CharacterJsonData>>(json)
+                ?? new Dictionary<string, CharacterJsonData>();
+
+            string key = name.ToString().Replace("_", " ");
+
+            if (!tempDict.TryAdd(key, data))
+                tempDict[key] = data;
+
+            var options = new JsonSerializerOptions { WriteIndented = true };
+            File.WriteAllText(jsonPath, JsonSerializer.Serialize(tempDict, options));
+
+            _data = tempDict.ToDictionary(
+                kv => Enum.Parse<CharacterNames>(kv.Key.Replace(" ", "_")),
+                kv => kv.Value
+            );
         }
     }
 }

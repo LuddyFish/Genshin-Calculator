@@ -10,22 +10,22 @@ namespace Genshin
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("==========     Welcome to the Genshin Calculator     ==========");
-
-            menuPrompt:
-            Console.WriteLine("What would you like to do?");
-            Console.WriteLine("\t1) Check a pre-existing character stats?\n" +
-                "\t2) Add/Modify a new character stats?\n" +
-                "\t3) Calculate a team rotation?\n" +
-                "\t4) Quit\n");
-            Console.Write("Your response: ");
-            string? read = Console.ReadLine();
-            if (string.IsNullOrEmpty(read))
-                goto menuPrompt;
-
             bool running = true;
             while (running)
             {
+                Console.WriteLine("==========     Welcome to the Genshin Calculator     ==========");
+
+                menuPrompt:
+                Console.WriteLine("What would you like to do?");
+                Console.WriteLine("\t1) Check a pre-existing character stats?\n" +
+                    "\t2) Add/Modify a new character stats?\n" +
+                    "\t3) Calculate a team rotation?\n" +
+                    "\t4) Quit\n");
+                Console.Write("Your response: ");
+                string? read = Console.ReadLine();
+                if (string.IsNullOrEmpty(read))
+                    goto menuPrompt;
+
                 if (int.TryParse(read[0].ToString(), out int result))
                 {
                     switch (result)

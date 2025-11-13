@@ -15,12 +15,12 @@ namespace Genshin.Attributes
         ClearOrb,
     }
 
-    public class ElementalParticle()
+    public class ElementalParticle
     {
         public Element Element { get; private set; }
         public EnergyParticle Particle { get; private set; }
 
-        public Dictionary<EnergyParticle, float> ParticleValues = new()
+        public Dictionary<EnergyParticle, float> ParticleValues { get; private set; } = new()
         {
             { EnergyParticle.ElementalParticle, 1.0f },
             { EnergyParticle.ElementalOrb, 3.0f },

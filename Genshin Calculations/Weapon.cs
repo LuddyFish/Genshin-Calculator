@@ -63,7 +63,16 @@ namespace Genshin
         The_Catch,
 
         // 5 star
-        A_Thousand_Blazing_Suns
+        A_Thousand_Blazing_Suns,
+        A_Thousand_Floating_Dreams,
+        Absolution,
+        Amos_Bow,
+        Aqua_Simulacra,
+        Aquila_Favonia,
+        Astral_Vultures_Crimson_Plumage,
+        Azurelight,
+        Beacon_of_the_Reed_Sea,
+
     }
 
     public class Weapon
@@ -112,7 +121,7 @@ namespace Genshin
             public string Passive { get; set; } = "";
         }
 
-        public static Dictionary<WeaponNames, WeaponJsonData>? _data;
+        private static Dictionary<WeaponNames, WeaponJsonData>? _data;
 
         public static void Load(string jsonPath)
         {
@@ -139,6 +148,30 @@ namespace Genshin
                 throw new ArgumentException($"No weapon data found for {name}");
 
             return info;
+        }
+
+        public static void Set(WeaponNames name, WeaponJsonData data, string jsonPath)
+        {
+            if (!File.Exists(jsonPath))
+                throw new FileNotFoundException($"Weapon data file not found: {jsonPath}");
+
+            string json = File.ReadAllText(jsonPath);
+
+            var tempDict = JsonSerializer.Deserialize<Dictionary<string, WeaponJsonData>>(json)
+                ?? new Dictionary<string, WeaponJsonData>();
+
+            string key = name.ToString().Replace("_", " ");
+
+            if (!tempDict.TryAdd(key, data))
+                tempDict[key] = data;
+
+            var options = new JsonSerializerOptions { WriteIndented = true };
+            File.WriteAllText(jsonPath, JsonSerializer.Serialize(tempDict, options));
+
+            _data = tempDict.ToDictionary(
+                kv => Enum.Parse<WeaponNames>(kv.Key.Replace(" ", "_")),
+                kv => kv.Value
+            );
         }
     }
 }
